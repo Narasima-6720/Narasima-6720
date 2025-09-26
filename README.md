@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimha Reddy</h1>
 <h3 align="center">A passionate devops from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narasima-6720&label=Profile%20views&color=0e75b6&style=flat" alt="narasima-6720" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narasima-6720" alt="narasima-6720" /></a> </p>
+<img src="https://svg-banners.vercel.app/api?type=gradient&text1=Welcome%20To%20Narasimha%20Reddy's%20GitHub&width=700&height=100" alt="Narasimha Reddy"/>
 
 - 🌱 I’m currently learning **CICD,KUBERNETES,DOCKER...**
 
