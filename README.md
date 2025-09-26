@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narasimha Reddy</h1>
 <h3 align="center">A passionate devops from India</h3>
 
-<img src="https://svg-banners.vercel.app/api?type=gradient&text1=Welcome%20To%20Narasimha%20Reddy's%20GitHub&width=700&height=100" alt="Narasimha Reddy"/>
+<img src="https://svg-banners.vercel.app/api?type=neon&text1=Hi%20I%27m%20Narasimha%20Reddy&width=700&height=100" alt="Narasimha Reddy"/>
+
 
 - 🌱 I’m currently learning **CICD,KUBERNETES,DOCKER...**
 
