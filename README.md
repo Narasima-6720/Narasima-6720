@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimha Reddy</h1>
 <h3 align="center">A passionate devops from India</h3>
 
-<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%2C%20I'm%20Narasimha!%20%F0%9F%91%8B%20Building%20the%20Future%20with%20DevOps&width=700&height=100" alt="Narasimha Reddy"/>
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%2C%20I'm%20Narasimha!%20%F0%9F%91%8B%20Aspiring DevOps%20Engineer&width=700&height=100" alt="Narasimha Reddy"/>
 
 
 
