@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimha Reddy</h1>
 <h3 align="center">A passionate devops from India</h3>
 
-<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hey%20To%20Narasimha%20Reddy&width=600&height=90" alt="Narasimha Reddy"/>
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20HI%20FROM%20Narasimha%20Reddy&width=600&height=90" alt="Narasimha Reddy"/>
 
 
 
@@ -9,6 +9,19 @@
 - 🛠️ Expert in **CI/CD, AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Ansible, Linux** and more.  
 - 💡 Passionate about simplifying complex concepts and making learning engaging & practical.   
 - 🌱 Believe in **hands-on learning** with real-time projects and industry scenarios.  
+
+
+![Adarsh](https://img.shields.io/badge/🚀%20Skills%20&%20Tools-00C9FF?style=for-the-badge&logoColor=white&labelColor=92FE9D)
+
+| Category        | Technologies / Tools |
+|-----------------|----------------------|
+| **Cloud**       | AWS      |
+| **CI/CD**       | Jenkins|
+| **Containers**  | Docker, Kubernetes, Helm |
+| **Infra as Code** | Terraform, CloudFormation |
+| **Automation**  | Ansible, Shell Scripting |
+| **Version Control** | Git, GitHub |
+| **OS & Monitoring** | Linux, Prometheus, Grafana |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
