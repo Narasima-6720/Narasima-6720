@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narasimha Reddy</h1>
 <h3 align="center">A passionate devops from India</h3>
 
-<img src="https://svg-banners.vercel.app/api?type=neon&text1=Hi%20I%27m%20Narasimha%20Reddy&width=700&height=100" alt="Narasimha Reddy"/>
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hey%20Welcome%20To%20Narasimha%20Reddy&width=600&height=90" alt="Narasimha Reddy"/>
+
 
 
 - 🌱 I’m currently learning **CICD,KUBERNETES,DOCKER...**
@@ -20,8 +21,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narasima-6720&show_icons=true&locale=en&layout=compact" alt="narasima-6720" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narasima-6720&show_icons=true&locale=en" alt="narasima-6720" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narasima-6720&" alt="narasima-6720" /></p>
